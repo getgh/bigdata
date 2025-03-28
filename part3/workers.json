@@ -1,0 +1,74 @@
+[
+    {
+      "Name": "John",
+      "Department": "IT",
+      "Gender": "Male",
+      "Salary": "120,000"
+    },
+    {
+      "Name": "Olivia",
+      "Department": "Sales",
+      "Gender": "Female",
+      "Salary": "80,000"
+    },
+    {
+      "Name": "Rob",
+      "Department": "IT",
+      "Gender": "Male",
+      "Salary": "140,000"
+    },
+    {
+      "Name": "Susan",
+      "Department": "Sales",
+      "Gender": "Female",
+      "Salary": "130,000"
+    },
+    {
+      "Name": "David",
+      "Department": "Sales",
+      "Gender": "Male",
+      "Salary": "110,000"
+    },
+    {
+      "Name": "Emma",
+      "Department": "IT",
+      "Gender": "Female",
+      "Salary": "120,000"
+    },
+    {
+      "Name": "Ann",
+      "Department": "Sales",
+      "Gender": "Female",
+      "Salary": "90,000"
+    },
+    {
+      "Name": "Simon",
+      "Department": "IT",
+      "Gender": "Male",
+      "Salary": "140,000"
+    },
+    {
+      "Name": "Juan",
+      "Department": "IT",
+      "Gender": "Female",
+      "Salary": "120,000"
+    },
+    {
+      "Name": "Peter",
+      "Department": "Sales",
+      "Gender": "Male",
+      "Salary": "100,000"
+    },
+    {
+      "Name": "Mike",
+      "Department": "IT",
+      "Gender": "Male",
+      "Salary": "120,000"
+    },
+    {
+      "Name": "Pat",
+      "Department": "Sales",
+      "Gender": "Male",
+      "Salary": "110,000"
+    }
+  ]
